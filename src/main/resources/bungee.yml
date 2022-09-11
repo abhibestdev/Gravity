@@ -1,0 +1,5 @@
+name: Gravity
+author: BlockGame Development Team
+version: 1.0
+main: us.blockgame.gravity.GravityBungeePlugin
+depend: [BGLib]

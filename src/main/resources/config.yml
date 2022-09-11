@@ -1,0 +1,9 @@
+settings:
+  server-name: "Hub"
+  login-stats: true
+  logout-stats: true
+
+broadcasts:
+  - "Gravity 1"
+  - "Gravity 2"
+  - "Gravity 3"
