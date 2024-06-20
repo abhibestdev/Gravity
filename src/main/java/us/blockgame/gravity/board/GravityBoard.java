@@ -18,7 +18,7 @@ public class GravityBoard implements BGBoard {
     public List<String> getSlots(Player player) {
         List<String> slots = new ArrayList<>();
         slots.add("&7&m------------------------");
-        slots.add("&fDrip's a gay man lol!!");
+        slots.add("&fDrip's a cool man lol!!");
         slots.add("&7&m------------------------");
         return slots;
     }
